@@ -20,9 +20,9 @@ namespace CardGame
             Console.WriteLine("**************************************************");
 
             //"Belwo features also can be added with minimal change");
-            //"1.Cards now have suits(Clubs, Spades, Hearts, Diamonds)- We need to Add one property Suit type in Card DTO")
-            // The game has more than 2 players-> Already implemented, we just need to specify number of players
-            // Deck size is changed-> As of now its 4*10, its is a configurable thing, we just need to increase RANK enum values
+            //"1. Cards now have suits(Clubs, Spades, Hearts, Diamonds)- We need to Add one property Suit type in Card DTO")
+            // 2. The game has more than 2 players-> Already implemented, we just need to specify number of players
+            // 3. Deck size is changed-> As of now its 4*10, its is a configurable thing, we just need to increase RANK enum values
 
 
 
